@@ -1,4 +1,4 @@
-## Power BI Certificate — Sakshi R. Malve
+# Power BI Certificate — Sakshi R. Malve
 
 ![Certificate](./sakshi_certificate.png)
 
